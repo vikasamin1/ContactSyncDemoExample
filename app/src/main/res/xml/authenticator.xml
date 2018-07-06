@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<account-authenticator xmlns:android="http://schemas.android.com/apk/res/android"
+    android:accountType="com.vrajaninfotech.vampy.contactsyncdemoexample"
+    android:icon="@drawable/ic_launcher_foreground"
+    android:smallIcon="@drawable/ic_launcher_background"
+    android:label="@string/account_name"
+    >
+
+</account-authenticator>
